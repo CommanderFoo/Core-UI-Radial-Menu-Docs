@@ -2,4 +2,6 @@
 
 Documentation for the UI Radial Menu component in Community Content.
 
-https://popthosepringles.github.io/Core-UI-Radial-Menu-Docs/
+<https://popthosepringles.github.io/Core-UI-Radial-Menu-Docs/>
+
+![Image](image.png)
